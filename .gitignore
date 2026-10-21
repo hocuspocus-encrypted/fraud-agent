@@ -6,3 +6,4 @@ agent/fraud_demo.db
 agent/results/
 __pycache__/
 *.pyc
+PIPLEINE_INTEGRATION_PLAN.md
